@@ -1,0 +1,14 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "DbConnection": "ExampleTestConnection"
+  },
+  "Parameter": {
+    "ValueABC": "TestValue_ABC",
+    "ValueDEF": "TestValue_DEF"
+  }
+}
